@@ -30,8 +30,11 @@ Tech Focused: (To be Added)
 
 ## Tashi
 
+### List of ideas
 
+### 1. (To be Added)
 
+    Tech Focused: (To be Added)
 
 ## Sagar
 
