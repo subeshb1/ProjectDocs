@@ -32,9 +32,12 @@ Tech Focused: (To be Added)
 
 ### List of ideas
 
-### 1. (To be Added)
+### 1. Music Sharing App
 
-    Tech Focused: (To be Added)
+A site that allows musicians to upload/promote their songs & get reviewed by listeners. Basically, a platform to buy and sell songs for legal use.
+Similar to soundcloud, spotify.
+
+Tech Focused: (To be Added)
 
 ## Sagar
 
