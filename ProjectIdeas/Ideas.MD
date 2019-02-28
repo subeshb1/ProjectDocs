@@ -36,6 +36,30 @@ Tech Focused: (To be Added)
 
     Tech Focused: (To be Added)
 
+
 ## Sagar
 
+### List of ideas
+
+### 1. Skill Competance and Mapping
+
+A platform that allows the user to evaluate thier skills.
+
+
+### 2. Agriculture App
+
+A app that contributes to the aggricultural development.
+
+
+### 3. Crime Management System
+
+A platform that allows the public to interact with the police official.
+
+
+### 4. HR management System
+
+
+### 5. Career and Employment Mgmt. System
+
+A platform which works as an interface between people and companies. Here we collect all the educational  and institutional achievements from the user. We even perform an exam to evaluate his skills. According to the results, a suitable job is offered to the user.
 
